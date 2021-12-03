@@ -1,0 +1,2 @@
+# GraphicsFinal
+This project is the culmination of our learning in our graphics class. The intention of the project is to take what we have learned from our previous projects and do something new with that knowledge. The idea for this project specifically is to create a Toon/Cel  shader and Toon/Cel lighting to be displayed on a large number of primitive objects. The project will have two separate scenes. The first version will be a non-optimized scene and an optimized scene.
